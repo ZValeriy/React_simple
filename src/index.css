@@ -49,6 +49,10 @@ code {
   color: #333333;
 }
 
+.todo-item-done {
+  color: red;
+}
+
 input[type=checkbox] {
   margin-right: 10px;
   font-size: 30px;
